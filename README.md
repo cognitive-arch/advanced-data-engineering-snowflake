@@ -17,7 +17,7 @@ To successfully follow along with the instructor during the course, you'll need 
 2. Clone your fork:
 
 ```bash
-git clone https://github.com/<your-GitHub-user-name>/modern-data-engineering-snowflake.git
+git clone https://github.com/<your-GitHub-user-name>/advanced-data-engineering-snowflake.git
 ```
 
 Where `<your-GitHub-user-name>` is replaced by your GitHub user name. This workflow is covered in the course.
